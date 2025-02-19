@@ -59,6 +59,142 @@
       "name": "Grilled Cheese Sandwich",
       "ingredients": ["bread", "cheese", "butter"],
       "instructions": "Butter bread, add cheese, and grill until golden brown."
+    },
+    {
+      "id": 11,
+      "name": "Shakshuka",
+      "ingredients": [
+        "eggs",
+        "tomatoes",
+        "bell peppers",
+        "onion",
+        "garlic",
+        "cumin",
+        "paprika",
+        "salt",
+        "pepper",
+        "parsley"
+      ],
+      "instructions": "Sauté chopped onions and garlic until soft. Add diced tomatoes and bell peppers along with cumin, paprika, salt, and pepper. Let the sauce simmer for 10 minutes. Make wells in the sauce and crack an egg into each well. Cover and cook until eggs are set. Garnish with chopped parsley."
+    },
+    {
+      "id": 12,
+      "name": "Egg Curry",
+      "ingredients": [
+        "eggs",
+        "onion",
+        "tomatoes",
+        "garlic",
+        "ginger",
+        "curry powder",
+        "coconut milk",
+        "salt",
+        "pepper"
+      ],
+      "instructions": "Hard-boil the eggs, peel, and set aside. Sauté onions, garlic, and ginger until fragrant. Add chopped tomatoes and curry powder, and cook until tomatoes break down. Stir in coconut milk, bring to a simmer, then add the boiled eggs. Cook for a few more minutes and season with salt and pepper."
+    },
+    {
+      "id": 13,
+      "name": "Deviled Eggs",
+      "ingredients": [
+        "hard-boiled eggs",
+        "mayonnaise",
+        "mustard",
+        "vinegar",
+        "salt",
+        "pepper",
+        "paprika"
+      ],
+      "instructions": "Slice hard-boiled eggs in half and remove the yolks. Mash the yolks with mayonnaise, mustard, vinegar, salt, and pepper until smooth. Spoon or pipe the mixture back into the egg whites and sprinkle lightly with paprika."
+    },
+    {
+      "id": 14,
+      "name": "Egg Drop Soup",
+      "ingredients": [
+        "chicken broth",
+        "eggs",
+        "cornstarch",
+        "ginger",
+        "green onions",
+        "salt",
+        "pepper"
+      ],
+      "instructions": "Bring the chicken broth to a simmer and mix a little cornstarch with water to create a slurry. Slowly drizzle in beaten eggs while stirring the broth to form egg ribbons. Add a pinch of ginger, salt, and pepper, and garnish with chopped green onions."
+    },
+    {
+      "id": 15,
+      "name": "Baked Avocado Eggs",
+      "ingredients": [
+        "avocado",
+        "eggs",
+        "salt",
+        "pepper",
+        "chives"
+      ],
+      "instructions": "Preheat your oven to 425°F (220°C). Halve an avocado and remove a little extra flesh to enlarge the cavity. Crack an egg into each avocado half, season with salt and pepper, and bake for 12-15 minutes until the egg whites set. Garnish with chopped chives."
+    },
+    {
+      "id": 16,
+      "name": "Egg Muffins",
+      "ingredients": [
+        "eggs",
+        "spinach",
+        "bell peppers",
+        "cheese",
+        "salt",
+        "pepper",
+        "optional: ham or bacon"
+      ],
+      "instructions": "Preheat oven to 375°F (190°C). Whisk eggs with salt and pepper, then stir in chopped spinach, diced bell peppers, and any optional meat. Pour the mixture into a greased muffin tin, sprinkle cheese on top, and bake for 15-20 minutes until set."
+    },
+    {
+      "id": 17,
+      "name": "Mini Spinach and Feta Quiche",
+      "ingredients": [
+        "eggs",
+        "spinach",
+        "feta cheese",
+        "milk",
+        "salt",
+        "pepper",
+        "mini pie crusts or phyllo cups"
+      ],
+      "instructions": "Preheat oven to 375°F (190°C). In a bowl, whisk eggs with a splash of milk, salt, and pepper. Stir in chopped spinach and crumbled feta. Pour the mixture into mini pie crusts or phyllo cups and bake for 20-25 minutes until the filling is set."
+    },
+    {
+      "id": 18,
+      "name": "Huevos Rancheros",
+      "ingredients": [
+        "eggs",
+        "corn tortillas",
+        "refried beans",
+        "salsa",
+        "avocado",
+        "cilantro",
+        "salt",
+        "pepper"
+      ],
+      "instructions": "Warm the corn tortillas and refried beans separately. Fry or poach the eggs and season with salt and pepper. Assemble by placing beans on a tortilla, topping with an egg, and drizzling with salsa. Garnish with sliced avocado and chopped cilantro."
+    },
+    {
+      "id": 19,
+      "name": "Egg Fried Noodles",
+      "ingredients": [
+        "noodles",
+        "eggs",
+        "carrot",
+        "peas",
+        "onion",
+        "garlic",
+        "soy sauce",
+        "oil",
+        "salt",
+        "pepper"
+      ],
+      "instructions": "Cook the noodles according to package instructions. In a wok, heat oil and sauté chopped onions and garlic until fragrant. Add diced carrots and peas, then push the vegetables aside and scramble the eggs. Combine the noodles with the vegetables and eggs, season with soy sauce, salt, and pepper, and stir-fry for a few minutes."
     }
-  ]
+  ],
+  "total": 20,
+  "skip": 0,
+  "limit": 30
 }
