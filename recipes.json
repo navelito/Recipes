@@ -3,61 +3,120 @@
     {
       "id": 1,
       "name": "Egg Salad",
-      "ingredients": ["egg", "mayonnaise", "mustard", "salt", "pepper"],
+      "ingredients": [
+        "egg",
+        "mayonnaise",
+        "mustard",
+        "salt",
+        "pepper"
+      ],
       "instructions": "Boil eggs, chop, and mix with the other ingredients."
     },
     {
       "id": 2,
       "name": "Scrambled Eggs",
-      "ingredients": ["egg", "butter", "salt", "pepper"],
+      "ingredients": [
+        "egg",
+        "butter",
+        "salt",
+        "pepper"
+      ],
       "instructions": "Whisk eggs and cook in a buttered pan."
     },
     {
       "id": 3,
       "name": "Egg Fried Rice",
-      "ingredients": ["egg", "rice", "soy sauce", "green onions"],
+      "ingredients": [
+        "egg",
+        "rice",
+        "soy sauce",
+        "green onions"
+      ],
       "instructions": "Stir-fry eggs and rice together with soy sauce and green onions."
     },
     {
       "id": 4,
       "name": "Omelette",
-      "ingredients": ["egg", "cheese", "onion", "bell pepper", "salt", "pepper"],
+      "ingredients": [
+        "egg",
+        "cheese",
+        "onion",
+        "bell pepper",
+        "salt",
+        "pepper"
+      ],
       "instructions": "Whisk eggs, pour into a pan, add fillings, and cook until firm."
     },
     {
       "id": 5,
       "name": "Pancakes",
-      "ingredients": ["egg", "flour", "milk", "sugar", "baking powder", "butter"],
+      "ingredients": [
+        "egg",
+        "flour",
+        "milk",
+        "sugar",
+        "baking powder",
+        "butter"
+      ],
       "instructions": "Mix ingredients into a batter and cook in a buttered pan."
     },
     {
       "id": 6,
       "name": "French Toast",
-      "ingredients": ["egg", "bread", "milk", "cinnamon", "sugar", "butter"],
+      "ingredients": [
+        "egg",
+        "bread",
+        "milk",
+        "cinnamon",
+        "sugar",
+        "butter"
+      ],
       "instructions": "Dip bread in egg mixture and fry in a buttered pan."
     },
     {
       "id": 7,
       "name": "Avocado Toast",
-      "ingredients": ["bread", "avocado", "lemon juice", "salt", "pepper"],
+      "ingredients": [
+        "bread",
+        "avocado",
+        "lemon juice",
+        "salt",
+        "pepper"
+      ],
       "instructions": "Mash avocado, season, and spread on toasted bread."
     },
     {
       "id": 8,
       "name": "Vegetable Stir-fry",
-      "ingredients": ["broccoli", "carrot", "bell pepper", "soy sauce", "garlic"],
+      "ingredients": [
+        "broccoli",
+        "carrot",
+        "bell pepper",
+        "soy sauce",
+        "garlic"
+      ],
       "instructions": "Stir-fry vegetables with soy sauce and garlic."
     },
     {
       "id": 9,
       "name": "Tomato Soup",
-      "ingredients": ["tomato", "onion", "garlic", "vegetable broth", "basil"],
+      "ingredients": [
+        "tomato",
+        "onion",
+        "garlic",
+        "vegetable broth",
+        "basil"
+      ],
       "instructions": "Cook and blend all ingredients until smooth."
     },
     {
       "id": 10,
       "name": "Grilled Cheese Sandwich",
-      "ingredients": ["bread", "cheese", "butter"],
+      "ingredients": [
+        "bread",
+        "cheese",
+        "butter"
+      ],
       "instructions": "Butter bread, add cheese, and grill until golden brown."
     },
     {
